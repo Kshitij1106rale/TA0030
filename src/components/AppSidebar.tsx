@@ -27,7 +27,7 @@ export function AppSidebar() {
             <Leaf className="h-6 w-6 text-sidebar-foreground" />
           </div>
           <div>
-            <h1 className="text-lg font-bold text-sidebar-foreground">AgriVision</h1>
+            <h1 className="text-lg font-bold text-sidebar-foreground">AgriPredict</h1>
             <p className="text-xs text-sidebar-foreground/70">AI Platform</p>
           </div>
         </div>
